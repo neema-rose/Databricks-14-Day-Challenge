@@ -33,7 +33,7 @@ The dataset used:
 
 | File | Purpose |
 |------|--------|
-| `Day_00_Setup.py` | All commands used to configure Kaggle, create volumes, download data, and load it into Spark |
+| `Day 0 Databricks 14 Day AI Challenge.py.py` | All commands used to configure Kaggle, create volumes, download data, and load it into Spark |
 
 ---
 

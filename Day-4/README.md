@@ -82,6 +82,8 @@ This allows:
 #### Step 4 – Tested Schema Enforcement
 #### Step 5 –Tested Duplicate Inserts
 
+**Check corresponding jupyter notebook for complete detailed code**
+
 ### 🏷️ Tags & Mentions
 @Databricks
 @Codebasics
